@@ -1,0 +1,8 @@
+Module A:
+what is blockchain -> hashing algorithums -> Immutable Ledger -> Distributed P2P Networks ->  What is Mining -> Consensus Protocol
+
+Module B:
+Bitcoin -> Mining -> Menpool -> Pulbic Key and Private Key
+
+Module C:
+Eherium -> Smart Contract  -> EVM and Gas -> DAOs -> Hard and Soft Fork -> DAOs Attack
